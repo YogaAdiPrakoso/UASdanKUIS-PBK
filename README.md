@@ -1,5 +1,6 @@
 # uas_prak_pbk
-
+NAMA  : YOGA ADI PRAKOSO
+NPM   : 213510356
 ## Project setup
 ```
 npm install
